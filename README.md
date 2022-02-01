@@ -1,4 +1,4 @@
-=== JobBoardWP - Job Board Listings and Submissions ===
+# JobBoardWP - Job Board Listings and Submissions
 
 Contributors: ultimatemember, nsinelnikov
 Tags: job, job board, job portal, job listing, job manager
