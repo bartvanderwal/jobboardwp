@@ -1,6 +1,6 @@
 # JobBoardWP - Job Board Listings and Submissions
 
-Contributors: ultimatemember, nsinelnikov
+- *Contributors*: ultimatemember, nsinelnikov
 Tags: job, job board, job portal, job listing, job manager
 Requires at least: 5.3
 Tested up to: 5.8
