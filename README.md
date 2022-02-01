@@ -1,15 +1,15 @@
 # JobBoardWP - Job Board Listings and Submissions ===
 
-Author URI: https://jobboardwp.com/
-Plugin URI: https://wordpress.org/plugins/jobboardwp/
-Contributors: ultimatemember, nsinelnikov
-Tags: job, job board, job portal, job listing, job manager
-Requires PHP: 5.6
-Requires at least: 5.3
-Tested up to: 5.8
-Stable tag: 1.1.1
-License: GNU Version 2 or Any Later Version
-License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+- *Author URI*: https://jobboardwp.com/
+- *Plugin URI*: https://wordpress.org/plugins/jobboardwp/
+- *Contributors*: ultimatemember, nsinelnikov
+- *Tags*: job, job board, job portal, job listing, job manager
+- *Requires PHP*: 5.6
+- *Requires at least*: 5.3
+- *Tested up to*: 5.8
+- *Stable tag*: 1.1.1
+- *License*: GNU Version 2 or Any Later Version
+- *License URI*: http://www.gnu.org/licenses/gpl-3.0.txt
 
 Add a modern job board to your website. Display job listings and allow employers to submit and manage jobs all from the front-end.
 
