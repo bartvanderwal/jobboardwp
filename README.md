@@ -1,4 +1,4 @@
-# JobBoardWP - Job Board Listings and Submissions ===
+# JobBoardWP - Job Board Listings and Submissions
 
 Author URI: https://jobboardwp.com/
 
